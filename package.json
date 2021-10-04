@@ -53,14 +53,17 @@
     "restoreMocks": true
   },
   "dependencies": {
-    "apollo-server": "^2.2.5",
-    "bcrypt": "^3.0.2",
+    "apollo-env": "^0.10.0",
+    "apollo-server": "^2.25.2",
+    "apollo-server-core": "^3.3.0",
+    "apollo-server-express": "^3.3.0",
+    "bcryptjs": "^2.4.3",
     "cuid": "^2.1.4",
     "graphql": "^14.0.2",
     "graphql-import": "^0.7.1",
     "graphql-tools": "^4.0.3",
     "lodash": "^4.17.11",
-    "mongoose": "^5.3.14",
+    "mongoose": "^5.13.9",
     "validator": "^10.9.0"
   }
 }
